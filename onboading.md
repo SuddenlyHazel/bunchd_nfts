@@ -13,8 +13,10 @@ We need three pieces of information from you
 Integrators might use these for display purposes in applications.
 
 For example, Bunchd might create a contract with the following:
-- Bunchd NFTs
-- BCHD
+- Name : Bunchd NFTs
+- Symbol : BCHD
+
+Note - once set these cannot be changed. 
 
 ### UserId
 
@@ -23,3 +25,9 @@ Your can get your userId after [logging in here](https://xe5ii-jiaaa-aaaaf-qaaya
 ![UserId in UI](https://xn6du-7aaaa-aaaaf-qaazq-cai.raw.ic0.app/image/6789C6548B52A0C86C9A5DF2BAFF1EDEBAA98CFE31703217C7A6949EA03FDDAF)
 
 Once you've compiled all this information fill out [the following form](https://forms.gle/WuX7FwviMHVvw3RZ6) and we'll be in touch with your canister id!
+
+## FAQ
+
+### How much data can my contract store?
+
+1GB would be a safe anwser. 
