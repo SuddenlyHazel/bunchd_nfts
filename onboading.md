@@ -35,6 +35,7 @@ Your can get your userId after [logging in here with Internet Identity](https://
 
 ![UserId in UI](https://xn6du-7aaaa-aaaaf-qaazq-cai.raw.ic0.app/image/6789C6548B52A0C86C9A5DF2BAFF1EDEBAA98CFE31703217C7A6949EA03FDDAF)
 
+## Getting You Canister
 
 **Once you've compiled all this information fill out [the following form](https://forms.gle/WuX7FwviMHVvw3RZ6) and we'll be in touch with your canister id!**
 
